@@ -1,2 +1,2 @@
-# coffer
+# Coffer
 'Coffer' demonstrates the idea of Graphical Password Authentication. This can be implemented as an authenticator app to help common folk have better security on their electronic devices by using image-based passcodes. Our application works on the principle that remembering image categories which is much more efficient than recalling complex passcodes and eliminates the concerns caused due to other problems such as shoulder surfing.
