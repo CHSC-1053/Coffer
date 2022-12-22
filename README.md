@@ -5,7 +5,3 @@ Here's a quick demo of the application:
 
 
 https://user-images.githubusercontent.com/83070675/209185020-5156f699-955a-4c21-9cd8-d8eb10af48fc.mp4
-
-
-Click [here](https://github.com/CHSC-1053/coffer/raw/main/coffer_final_signed.apk) to download the app and try it for yourself.
-
